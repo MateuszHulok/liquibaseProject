@@ -4,8 +4,6 @@ package com.liquibase.projectliquibase.controller;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import com.liquibase.projectliquibase.model.command.create.CreatePetCommand;
-import com.liquibase.projectliquibase.model.command.create.CreateToyCommand;
-import com.liquibase.projectliquibase.model.command.update.UpdatePetCommand;
 import com.liquibase.projectliquibase.model.command.update.UpdateToyCommand;
 import com.liquibase.projectliquibase.model.dto.PetDto;
 import com.liquibase.projectliquibase.model.dto.ToyDto;
